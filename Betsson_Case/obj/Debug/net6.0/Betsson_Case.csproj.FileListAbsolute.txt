@@ -1,0 +1,80 @@
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.exe
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.deps.json
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.runtimeconfig.json
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.pdb
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Humanizer.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Npgsql.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.AssemblyReference.cache
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.AssemblyInfoInputs.cache
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.AssemblyInfo.cs
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.CoreCompileInputs.cache
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.CopyComplete
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\refint\Betsson_Case.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.pdb
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.genruntimeconfig.cache
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\ref\Betsson_Case.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\muhammet.balamir\OneDrive - sabancidx.com\Desktop\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\appSettings.json
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.exe
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\appSettings.json
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.deps.json
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.runtimeconfig.json
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Betsson_Case.pdb
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Humanizer.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Npgsql.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.AssemblyReference.cache
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.AssemblyInfoInputs.cache
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.AssemblyInfo.cs
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.CoreCompileInputs.cache
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.csproj.CopyComplete
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\refint\Betsson_Case.dll
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.pdb
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\Betsson_Case.genruntimeconfig.cache
+C:\Users\msinb\Desktop\Bettson_Q2\mert\mert\Betsson_Case\Betsson_Case\obj\Debug\net6.0\ref\Betsson_Case.dll
